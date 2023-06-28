@@ -6,7 +6,7 @@ A small project on Chat app made using ReactJS, Socket.io, NodeJS, Html, Css,
 
 ## Tech Stack Used
 [![Tech Stack Used](https://skills.thijs.gg/icons?i=react,nodejs,html,css)](https://skills.thijs.gg)
-[![Socket.io](https://user-images.githubusercontent.com/74059877/249572852-9fbd93a5-7a2d-4536-8223-04e00d20a043.png)](https://skills.thijs.gg)
+[![Socket.io](https://user-images.githubusercontent.com/74059877/249572852-9fbd93a5-7a2d-4536-8223-04e00d20a043.png)](socket.io)
 ## Screenshots
 
 Fig 1:- Home Screen For the app.
